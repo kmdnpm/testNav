@@ -1,0 +1,49 @@
+nav ul {
+    list-style-type: none;
+}
+
+
+nav {
+    background-color: #333333;
+    height: 40px;
+    padding-top: 0.2px;
+    padding-bottom: 23px;
+}
+
+nav a {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+
+nav li {
+    color: white;
+    width: 10px;
+    display: inline;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.material-symbols-outlined {
+    color: white;
+}
+
+/* #news:after {
+    content: "\e8b0";
+}
+
+#arts a::before {
+    content: "\e40a";
+}
+
+#music a::before {
+    content: "\f01f";
+}
+
+#shows a::before {
+    content: "\e333";
+}
+
+#search a::before {
+    content: "\e8b6";
+} */
